@@ -1,0 +1,3 @@
+Client blockiert Server beim Warten auf eine Eingabe
+=> Testfall: mit 2 Clients testen!
+Dateiname zufällig aber evtl. bereits vorhanden
